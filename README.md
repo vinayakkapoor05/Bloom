@@ -57,7 +57,7 @@ Survive for 5 minutes and outlast all waves of predators while keeping the consu
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Bloom.git
+    git clone https://github.com/vinayakkapoor05/Bloom.git
     ```
 
 2. Open the project in Unity (2022.3.47f1 or above).
