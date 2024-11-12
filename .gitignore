@@ -1,0 +1,15 @@
+# Ignore Unity-generated files
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+
+# Ignore Unity-specific settings
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+.vscode/
+.idea/
