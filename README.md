@@ -63,5 +63,13 @@ Survive for 5 minutes and outlast all waves of predators while keeping the consu
 2. Open the project in Unity (2022.3.47f1 or above).
 3. Build and Play the game within Unity or export to your desired platform.
 
+## Gameplay
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.postimg.cc/VNkvDLMp/Screenshot-2024-11-12-at-12-08-00-AM.png" alt="Gameplay Screenshot 1" width="100%" />
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.postimg.cc/QdsHKqMX/Screenshot-2024-11-12-at-12-11-05-AM.png" alt="Gameplay Screenshot 1" width="100%" />
+</div>
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
