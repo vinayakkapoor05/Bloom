@@ -5,6 +5,14 @@ Bloom is a dynamic, action-packed game where you protect blue consumer bacteria 
 ## Game Overview
 In Bloom, you are tasked with keeping your consumer bacteria safe in a petri dish arena. The blue consumer bacteria regenerate health over time, but if they are destroyed, the game ends. You need to manage resources, collect nutrients, and use your abilities to fend off increasingly difficult waves of red predators.
 
+## Gameplay
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.postimg.cc/VNkvDLMp/Screenshot-2024-11-12-at-12-08-00-AM.png" alt="Gameplay Screenshot 1" width="100%" />
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://i.postimg.cc/QdsHKqMX/Screenshot-2024-11-12-at-12-11-05-AM.png" alt="Gameplay Screenshot 1" width="100%" />
+</div>
+
 ## Objective
 Survive for 5 minutes and outlast all waves of predators while keeping the consumer bacteria alive.
 
@@ -62,14 +70,6 @@ Survive for 5 minutes and outlast all waves of predators while keeping the consu
 
 2. Open the project in Unity (2022.3.47f1 or above).
 3. Build and Play the game within Unity or export to your desired platform.
-
-## Gameplay
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://i.postimg.cc/VNkvDLMp/Screenshot-2024-11-12-at-12-08-00-AM.png" alt="Gameplay Screenshot 1" width="100%" />
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://i.postimg.cc/QdsHKqMX/Screenshot-2024-11-12-at-12-11-05-AM.png" alt="Gameplay Screenshot 1" width="100%" />
-</div>
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
